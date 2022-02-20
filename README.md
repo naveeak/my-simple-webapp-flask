@@ -2,5 +2,5 @@
 ## course link https://cglearning.udemy.com/course/learn-docker/learn/lecture/7894022#overview
 
 git clone <repo>
-docker build .
+docker build . -t mysimplewebapp`
 run the image 
